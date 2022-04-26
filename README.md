@@ -1,16 +1,30 @@
-### Hi there 👋
+##Hi 👋, I'm Daniel Ro
 
-<!--
-**etozhekqx/etozhekqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Lead DevOps Engineer** at AT-Consulting
 
-Here are some ideas to get you started:
+**Field of interests**: DevOps, Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 🛠️
+- **Languages**: Python
+- **SQL**: Postgres, Redis, Oracle DB, MySQL 
+- **DevOps**: Linux, Docker, K8s, Ansible, SaltStack, REST API, CI (Jenkins, GitLab), bash
+
+### Work experience 👔
+| Position 'Start / Now'          | Company        | Field                           | Work Period                |
+| --------------------- | -------------- | ------------------------------- | -------------------------- |
+| **DevOps Engineer** / **Lead DevOps Engineer**     | **AT-Consulting**    | **DevOps**      | **08.10.2021 — until now** |
+| **Entry Application Administrator** / **Application Administrator**     | **Jet-Infosystems**    | **Linux**      | **01.08.2019 — 07.10.2021** |
+
+### Education 🎓
+- **College** in Computer Systems Development at ГБПОУ МГКЭИТ, Moscow (2014 - 2018)
+
+### Projects 🐾
+
+- [home-tasker](https://github.com/etozhekqx/home-tasker) - Async Microservice To-Do List for Home Routine - *in development*
+
+### Contact me
+
+- [Telegram](https://telegram.me/etozhekqx)
+- [Instagram](https://instagram.com/etozhekqx)
+- [Discord](https://discord.gg/etozhekqx#8234)
+- [Leetcode](https://www.leetcode.com/etozhekqx)
