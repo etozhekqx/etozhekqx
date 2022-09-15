@@ -20,7 +20,4 @@
 
 ### Contact me
 
-- [Telegram](https://telegram.me/etozhekqx)
-- [Instagram](https://instagram.com/etozhekqx)
-- [Discord](https://discord.gg/etozhekqx#8234)
-- [Leetcode](https://www.leetcode.com/etozhekqx)
+- [Telegram](https://etozhekqx.t.me)
