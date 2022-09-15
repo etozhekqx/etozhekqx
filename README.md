@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Daniel Ro
 
-- **Lead DevOps Engineer** at AT-Consulting
+- **TL DevOps Engineer** at AT-Consulting
 
 **Field of interests**: DevOps, Backend
 
